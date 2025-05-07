@@ -72,6 +72,7 @@ Geben Sie ihrer Veranstaltung einen passenden Namen. Hierfür können Sie die Dr
 
 ![image](https://github.com/user-attachments/assets/73b9c87e-87ed-458f-a0ce-b1485cee5357)
 
+Anmerkung: Die geschilderte Dropdown-Möglichkeit ist eine Browserfunktion und nicht Teil der CMS Funktionalität.
 
 ### Beschreibung wählen
 
